@@ -5,6 +5,4 @@
 
 - Múltiplos de 5 por la palabra "buzz".
 
-- 👯 I’m looking to collaborate on **dsa**
-
 - Múltiplos de 3 y de 5 a la vez por la palabra "fizzbuzz".
